@@ -1,4 +1,4 @@
-# cardboard
+# cardboard JS viewer
 3D view in cardboard using Thee.js
 Just put this files in a web folder to view panoramic in google cardboard. Work with chrome browsers
 
